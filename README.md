@@ -1,0 +1,2 @@
+# culturalbot
+HARAMI BOT!
