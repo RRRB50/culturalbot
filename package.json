@@ -1,0 +1,14 @@
+{
+  "name": "culturalbot",
+  "version": "3.2.2",
+  "description": "Harami Tareen bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CulutralBois",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
